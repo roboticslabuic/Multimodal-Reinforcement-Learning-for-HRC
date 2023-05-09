@@ -1,5 +1,7 @@
 # Multimodal-Reinforcement-Learning-for-HRC
 First run Dagger training as a warm-up stage, save the model and then load that model as the initial policy for RL training.
+
+Contact Ava Mehri (amehri2@uic.edu) for detailed instructions.
  
 Link to the paper: [Multimodal Reinforcement Learning for Robots Collaborating with Humans](https://arxiv.org/abs/2303.07265)
 
