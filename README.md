@@ -5,6 +5,8 @@ Contact Ava Mehri (amehri2@uic.edu) for detailed instructions.
  
 Link to the paper: [Multimodal Reinforcement Learning for Robots Collaborating with Humans](https://arxiv.org/abs/2303.07265)
 
+Link to the Human Study Data: [Multimodal Reinforcement Learning Human Study](https://indigo.uic.edu/articles/dataset/Multimodal_Reinforcement_Learning_Human_Study/22728386)
+
 Cite as:
 ```
 @article{shervedani2023multimodal,
